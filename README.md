@@ -18,11 +18,14 @@
 </div>
 <br>
 
-## &nbsp;Where to find me ##
+## &nbsp;Contacts ##
 <div style="display: inline-block; margin-top: 10px;">
-  <a href="https://www.linkedin.com/in/matheus-freitas-marques-590303235" target="_blank" style="text-decoration: none; margin-right: 20px;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="" target="_blank" style="text-decoration: none; height: 35px;">
+    <img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/matheus-freitas-marques-590303235" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-  <a href="mailto:mfmarques000@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
+<a href="mailto:mfmarques000@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  
 </div>
